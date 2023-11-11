@@ -1,0 +1,59 @@
+
+
+.verde{
+ background-color: rgb(96, 209, 96);
+border-style: solid;
+ border-radius: 4px;
+ 
+}
+
+.laranja{
+    background-color: rgb(247, 97, 37);
+    border-style: solid;
+     border-radius: 4px;
+}
+
+.rosa{
+ background-color: rgb(236, 89, 200);
+ border-style: solid;
+ 
+}
+
+.roxo{
+    background-color: rgb(118, 19, 175);
+    border-style: solid;
+    
+   }
+
+.amarelo{
+ background-color: rgb(247, 225, 28);
+ border-style: solid;
+    
+   }
+
+
+ .cinza{
+    background-color: rgb(139, 134, 138);
+    border-style: solid;
+    
+   }
+
+.azulcla{
+ background-color:rgb(37, 37, 182);
+ border-style: solid;
+}
+
+.petroleo{
+background-color:rgb(55, 55, 87);
+border-style: solid;
+}
+
+.azulesc{
+    background-color:rgb(21, 139, 50);
+    border-style: solid;
+    }
+
+    .ciano{
+        background-color:rgb(24, 174, 197);
+        border-style: solid;
+        }
